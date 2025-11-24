@@ -2,7 +2,7 @@ package Sorting;
 
 import java.util.Scanner;
 
-public class BubbleSort01 {
+public class BubbleSort_01 {
 
     // Bubble sort : TOC = O(n^2)
 

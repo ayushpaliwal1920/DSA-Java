@@ -1,6 +1,6 @@
 package Sorting;
 
-public class InsertionSort03 {
+public class InsertionSort_03 {
 
     // Insertion Sort : Take one element from the unsorted part then iterate through the sorted part and find the correct position of the element.
 

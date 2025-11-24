@@ -1,6 +1,6 @@
 package Sorting;
 
-public class MergeSort05 {
+public class MergeSort_05 {
     // Merge Sort : It uses divide and conquer apprach.
     // 1. Divide the array into 2 equal halves.
     // 2. sort the 2 subarrays separately using recursions.

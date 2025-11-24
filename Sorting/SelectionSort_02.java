@@ -2,7 +2,7 @@ package Sorting;
 
 import java.util.Scanner;
 
-public class SelectionSort02 {
+public class SelectionSort_02 {
 
     // Selection Sort : selects an element and puts its correct position.
     // TOC = o(n^2)
