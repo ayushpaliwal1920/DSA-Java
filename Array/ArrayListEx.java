@@ -88,6 +88,7 @@ public static void main(String[] args) {
 
     // if you don't specify class,you can put anything inside l
 
+    @SuppressWarnings("rawtypes")
     ArrayList l = new ArrayList<>();
 
     l.add("Ayush");
