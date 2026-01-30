@@ -3,7 +3,7 @@ package Array;
 class Arrayexample{
   
     // hum methods ko static isliye banate h qki ek static method mai kvl dusra static method hi call kiya jaa skta hai chunki main method static h  isliye humne static methods banaye h
-    void multiArrays(){
+    public void multiArrays(){
 
            int[][] arr1 = new int[5][3];
            String[][] arr2 = new String[5][2];
@@ -24,7 +24,7 @@ class Arrayexample{
 
     }
 
-   void demoArray(){
+   public void demoArray(){
        int[] ages = new int[9];
        float weight[] = new float[9];
        String[] names  = new String[30];

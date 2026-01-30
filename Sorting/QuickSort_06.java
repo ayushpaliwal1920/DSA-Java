@@ -3,6 +3,9 @@ package Sorting;
 public class QuickSort_06 {
 
 
+    // Quick Sort : Divide and conquer algorithm , not  a stable algorithm 
+
+    // Time complexity : avg and best : O(nlogn) and worst case : O(n^2)
 
     static void displayArr(int[] arr) {
         for (int val : arr) {
