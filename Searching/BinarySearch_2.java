@@ -62,7 +62,7 @@ public class BinarySearch_2 {
                     end = mid-1;
                 }
             }else{ // start to mid will be sorted array because of property of the roated sorted array.
-                if( target >= st && target < arr[mid]-1){
+                if( target >= arr[st] && target < arr[mid]-1){
                     end = mid-1;
                 }else{
                     st = mid +1;
