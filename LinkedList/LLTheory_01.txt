@@ -1,0 +1,51 @@
+ARRAY LIMITATIONS =>
+
+ fized size ,
+ takes continuous memory,
+ insert in between is hard
+ ArrayList is not space and time complexity friendly
+
+LINKED LIST ==>
+
+.data stored in non continuious memory space.
+.A Linked List is a linear data structure where:
+
+.Elements are stored in nodes
+
+ Each node contains:
+
+ Data
+
+ Reference (pointer) to the next node
+
+ Unlike arrays, memory is not contiguous.
+
+.insertion is easy time complexity => O(1)
+
+.but fetch or or travesign or get() function occurs in time complexity O(n).
+
+
+LIMITATIONS OF LINKED LIST =>
+
+.No Random Access
+.Extra Memory Overhead
+.Slower Traversal
+.No Backward Traversal (Singly LL)
+.Binary Search Not Possible
+
+
+LIST NODE =>
+             public static class Node{
+                int data;
+                Node next;
+
+                Node(int data){
+                    this.data  = data;
+                }
+             }
+
+TYPES OF LINKED LIST =>
+                     SINGLY LINKED LIST
+                     DOUBLY LINKED LIST
+                     CIRCULAR LINKED LIST
+
