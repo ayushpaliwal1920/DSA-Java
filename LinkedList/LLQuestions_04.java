@@ -555,6 +555,8 @@ public class LLQuestions_04 {
 
       see again this question last question on linked list video : very important question : watch it again and again : very important question.
     */
+
+      // refine this code one more time 
     public static Node copyRandomList(Node head){
 
         // step 1: create a deep copy
@@ -587,7 +589,7 @@ public class LLQuestions_04 {
             temp = temp.next;
         }
         temp1 = head;
-        temp2 = head;
+        temp2 = head2;
 
         // step 3 : connect random pointer of new linked list by using the random pointer of given linked list. or Assigning random pointers.
 
